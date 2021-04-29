@@ -1,0 +1,6 @@
+﻿  inventory.cpp
+f:\repos\inventorymanagementsystem\inventorymanagementsystem\inventory.cpp(118): warning C4715: 'Stock::adjustQty': not all control paths return a value
+f:\repos\inventorymanagementsystem\inventorymanagementsystem\inventory.cpp(170): warning C4715: 'Stock::tItem': not all control paths return a value
+f:\repos\inventorymanagementsystem\inventorymanagementsystem\inventory.cpp(218): warning C4715: 'Stock::tCode': not all control paths return a value
+f:\repos\inventorymanagementsystem\inventorymanagementsystem\inventory.cpp(246): warning C4715: 'Stock::tQty': not all control paths return a value
+  InventoryManagementSystem.vcxproj -> F:\repos\InventoryManagementSystem\Debug\InventoryManagementSystem.exe
